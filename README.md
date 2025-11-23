@@ -1,2 +1,2 @@
-Just a regular ass repository i want to use for some random ass stuff and learning
-Might include stuff from Data Science and Cyber Security
+Using Agentic AI solutions to solve every business problems
+#DS #AgenticAI
