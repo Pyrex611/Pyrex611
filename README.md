@@ -1,4 +1,4 @@
-# Hi, I'm Clifford Gambo (Pyrexx) 👋
+# Hi, I'm Clifford Bulya (Pyrexx) 👋
 
 **ML Developer | Data Scientist | Software Engineer | DevOps Practitioner**
 
