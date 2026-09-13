@@ -1,6 +1,6 @@
 # Hi, I'm Clifford Bulya (Pyrexx) 👋
 
-**ML Developer | Data Scientist | Software Engineer | DevOps Practitioner**
+**AI-Integrated Full-Stack Engineer | Data Scientist | DevOps Practitioner**
 
 I build intelligent systems that bridge the gap between data science and production engineering. With expertise spanning machine learning development, data science, software engineering, and DevOps, I deliver end-to-end AI solutions that scale.
 
@@ -51,7 +51,7 @@ I'm available for contracting roles where I can leverage my full-stack ML and en
 Feel free to explore my repositories to see my work in action. For collaboration or contracting inquiries:
 
 - 📧 Email: [gamboclifford11@gmail.com]
-- 💼 LinkedIn: Currently Unavailable
+- 💼 LinkedIn: https://linkedin.com/in/clifford-bulya
 - 🌐 Portfolio: pyrex611.github.io
 
 ---
